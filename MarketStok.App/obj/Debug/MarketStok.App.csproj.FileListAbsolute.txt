@@ -1,0 +1,11 @@
+C:\Users\CEREN\Desktop\MarketStok.App\bin\Debug\MarketStok.App.exe.config
+C:\Users\CEREN\Desktop\MarketStok.App\bin\Debug\MarketStok.App.exe
+C:\Users\CEREN\Desktop\MarketStok.App\bin\Debug\MarketStok.App.pdb
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.Properties.Resources.resources
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.csproj.GenerateResource.cache
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.exe
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.pdb
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.frmGiris.resources
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.frmUrunEkle.resources
+C:\Users\CEREN\Desktop\MarketStok.App\obj\Debug\MarketStok.App.frmStok.resources
